@@ -1,12 +1,12 @@
 ## Badge
 
-![Icon](/Badge.png?raw=true)
+<img width="300" heigth="100" src="/Badge.svg">
 
 [svg](/Badge.svg) | [png](/Badge.png)
 
 ## Icon
 
-![logo](/Prettier.png?raw=true)
+<img width="100" heigth="100" src="/Prettier.svg">
 
 [svg](/Prettier.svg) | [png](/Prettier.png)
 
