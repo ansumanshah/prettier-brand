@@ -1,12 +1,12 @@
 ## Badge
 
-<img width="300" heigth="100" src="/Badge.svg">
+<img width="150" heigth="50" src="https://raw.githubusercontent.com/ansumanshah/prettier-brand/master/Badge.png">
 
 [svg](/Badge.svg) | [png](/Badge.png)
 
 ## Icon
 
-<img width="100" heigth="100" src="/Prettier.svg">
+<img width="100" heigth="100" src="https://raw.githubusercontent.com/ansumanshah/prettier-brand/master/Prettier.png">
 
 [svg](/Prettier.svg) | [png](/Prettier.png)
 
