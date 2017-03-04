@@ -1,0 +1,8 @@
+{
+  "name": "prettier-brand",
+  "version": "1.0.0",
+  "description": "Branding attempt for Prettier",
+  "main": "index.js",
+  "author": "Ansuman Shah <ansumanshah@gmail.com>",
+  "license": "MIT",
+}
